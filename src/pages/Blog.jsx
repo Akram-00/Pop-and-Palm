@@ -2,7 +2,6 @@ import React from 'react'
 import { useParams } from 'react-router-dom';
 import { parseBlogUrl } from '../utils/blogURLGenerator';
 import BlogContent from '../components/BlogContent';
-import BlogHeroSection from '../components/BlogHeroSection';
 
 const Blog = () => {
 
