@@ -10,9 +10,15 @@ const BlogContent = ({ blog }) => {
             <div className='blog-hr' />
             {/* blogcontent */}
             <blog.blogContent />
-            <a href='https://us.bigin.online/org868107012/forms/enquiry-form' target='_blank' rel="noopener noreferrer">
-                <button className='button-primary blog-redirect-btn' style={{marginTop:'2rem'}}>Contact Us</button>
-            </a>
+
+            <div className='blog-end-cta'>
+                <h4>
+                    Plan your cultural events with Pop and Palm. Contact us to learn more!
+                </h4>
+                <a href='https://us.bigin.online/org868107012/forms/enquiry-form' target='_blank' rel="noopener noreferrer">
+                    <button className='button-primary' style={{ marginTop: '2rem' }}>Contact Us</button>
+                </a>
+            </div>
         </section>
     )
 }
