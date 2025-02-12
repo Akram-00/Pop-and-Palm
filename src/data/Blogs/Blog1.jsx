@@ -9,24 +9,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
-                    textAlign: "justify"
-                }}
-            >
-                <strong>
-                    Title: Top 5 Cultural Events in the UAE and How to Perfect Your Event
-                    Decor for Them
-                </strong>
-            </p>
-            <p
-                style={{
-                    marginTop: "0cm",
-                    marginRight: "0cm",
-                    marginBottom: "8.0pt",
-                    marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -45,8 +28,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -58,8 +40,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -71,8 +52,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -81,7 +61,7 @@ const Blog1 = () => {
                 complement its sleek, modern architecture, here’s how to perfect your event
                 decor:
             </p>
-            <ul style={{ listStyleType: "disc" }}>
+            <ul style={{ listStyleType: "disc",fontSize:'16px' }}>
                 <li>
                     <strong>Elegant and Minimalist:</strong> Use a neutral color palette like
                     gold, black, and white to maintain sophistication and complement the
@@ -103,8 +83,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -117,8 +96,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -132,8 +110,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -162,8 +139,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -176,8 +152,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -189,8 +164,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -204,8 +178,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -233,8 +206,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -247,8 +219,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -260,8 +231,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -275,8 +245,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -304,8 +273,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -318,8 +286,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -331,8 +298,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -347,8 +313,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -376,8 +341,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -390,8 +354,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -403,8 +366,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >
@@ -419,8 +381,7 @@ const Blog1 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
-                    fontFamily: '"Aptos","sans-serif"',
+                    fontSize: "16px",
                     textAlign: "justify"
                 }}
             >

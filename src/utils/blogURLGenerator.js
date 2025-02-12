@@ -1,4 +1,4 @@
-import { mockData } from "../data/blogsData";
+import { blogData } from "../data/blogsData";
 
 const generateBlogUrl = (title) => {
     // Remove all special characters, replace spaces with hyphens, and clean up multiple hyphens
@@ -13,7 +13,7 @@ const generateBlogUrl = (title) => {
 
 const parseBlogUrl = (blogName) => {
 
-    const matchingBlog = mockData.find(
+    const matchingBlog = blogData.find(
         (blog) => generateBlogUrl(blog.title) === blogName
     );
 

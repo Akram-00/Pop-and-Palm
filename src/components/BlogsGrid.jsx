@@ -1,5 +1,5 @@
 import React from 'react'
-import { mockData } from '../data/blogsData';
+import { blogData } from '../data/blogsData';
 import { generateBlogUrl } from '../utils/blogURLGenerator';
 import { useNavigate } from 'react-router-dom';
 
@@ -30,7 +30,7 @@ const BlogsGrid = () => {
             <h2 className='blog-grid-container-title'>Recent Post</h2>
             <div className='blog-grid-container-cards'>
                 {
-                    mockData.map((blog, index) =>
+                    blogData.map((blog, index) =>
                     (<BlogCard
                         key={index}
                         imgSrc={blog.imgSrc}
