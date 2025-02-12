@@ -9,7 +9,7 @@ const Blog3 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
+                    fontSize: "16px",
                     
                 }}
             >
@@ -21,7 +21,7 @@ const Blog3 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
+                    fontSize: "16px",
                     
                 }}
             >
@@ -38,7 +38,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -57,7 +57,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -74,7 +74,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -91,7 +91,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -108,7 +108,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -125,7 +125,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -142,7 +142,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -158,7 +158,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -174,7 +174,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -190,7 +190,7 @@ const Blog3 = () => {
                         marginRight: "0cm",
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
-                        fontSize: "11.0pt",
+                        fontSize: "16px",
                         
                     }}
                 >
@@ -207,7 +207,7 @@ const Blog3 = () => {
                     marginRight: "0cm",
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
-                    fontSize: "11.0pt",
+                    fontSize: "16px",
                     
                 }}
             >
