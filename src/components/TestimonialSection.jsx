@@ -8,7 +8,7 @@ import TestimonialNikitha from "../assets/TestimonialNikitha.jpeg";
 import TestimonialVanusha from "../assets/TestimonialVanusha.jpg";
 import TestimonialNilofar from "../assets/TestimonialNilofar.jpeg";
 
-import TestimonialUserLine from "../assets/TestimonialUserLine.png";
+import TestimonialUserLine from "../assets/testimonialUserLine.png";
 import LeftToRightReveal from './LeftToRightReveal';
 import VisibleReveal from './VisibleReveal';
 
