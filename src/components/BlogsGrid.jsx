@@ -1,16 +1,16 @@
 import React from 'react'
 import { blogData } from '../data/blogsData';
 import { generateBlogUrl } from '../utils/blogURLGenerator';
-import { useNavigate } from 'react-router-dom';
+import { HashLink } from 'react-router-hash-link';
 
 
 const BlogCard = ({ imgSrc, title, description }) => {
 
-    const navigate = useNavigate();
+    const blogUrl = generateBlogUrl(title) // Replace spaces with hyphens
 
     const handleBlogRedirect = () => {
-        const blogUrl = generateBlogUrl(title) // Replace spaces with hyphens
-        navigate(`/blog/${blogUrl}`);
+        window.scrollTo(0, 0);
+        console.log("Scrolled to top"); // Log a message to confirm the function is called
     };
     return (
         <div className="blog-card">
@@ -18,7 +18,9 @@ const BlogCard = ({ imgSrc, title, description }) => {
             <div className="blog-card-body">
                 <h5 className="blog-card-title">{title}</h5>
                 <p className="blog-card-text">{description}</p>
-                <button onClick={handleBlogRedirect} className='button-primary blog-redirect-btn'>Read More &rarr;</button>
+                <HashLink style={{ width: '100%' }} smooth to={`${blogUrl}#top`}>
+                    <button onClick={handleBlogRedirect} className='button-primary blog-redirect-btn'>Read More &rarr;</button>
+                </HashLink>
             </div>
         </div>
     );
