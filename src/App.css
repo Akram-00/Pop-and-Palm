@@ -1181,6 +1181,7 @@ h6 {
   /* Set fixed height to maintain consistency */
   object-fit: cover;
   /* Ensures image fits within the frame */
+  border-radius: 8px;
 }
 
 .blog-card-body {
