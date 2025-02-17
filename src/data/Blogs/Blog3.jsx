@@ -10,26 +10,13 @@ const Blog3 = () => {
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
                     fontSize: "16px",
-                    
+                    textAlign: "justify"
                 }}
             >
-                2025 Event Decor Trends You Need to Know About
-            </p>
-            <p
-                style={{
-                    marginTop: "0cm",
-                    marginRight: "0cm",
-                    marginBottom: "8.0pt",
-                    marginLeft: "0cm",
-                    fontSize: "16px",
-                    
-                }}
-            >
-                As 2025 approaches, event decor is evolving with bold trends focused on
+                As 2025 approaches, event decor is evolving with trends focused on
                 sustainability, innovation, and vibrant designs. Whether you're planning a
-                corporate event, wedding, or celebration, here's what you need to know about
-                the top decor trends this year. Pop and Palm ensures your event is trendy,
-                budget-friendly, and flawlessly executed.
+                corporate event, wedding, or celebration, here are the top decor trends to
+                watch:
             </p>
             <ol style={{ marginBottom: "0cm", marginTop: "0cm" }} start={1} type={1}>
                 <li
@@ -39,17 +26,15 @@ const Blog3 = () => {
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
                         fontSize: "16px",
-                        
+                        textAlign: "justify"
                     }}
                 >
-                    <strong>
-                        Sustainable Decor
-                        <br />
-                    </strong>
-                    &nbsp;Eco-friendly materials, zero-waste designs, and locally sourced
-                    decor will dominate in 2025. Expect sustainable furniture, organic floral
-                    arrangements, and minimal environmental impact. Pop and Palm ensures your
-                    eco-conscious event is seamless and stylish without the high price tag.
+                    <strong>Sustainable Decor:&nbsp;</strong>Eco-friendly materials and
+                    zero-waste designs are top priorities in 2025. Think organic florals and
+                    locally sourced decor that minimize environmental impact. With sustainable
+                    decor, your event will shine while supporting a greener planet.
+                    Eco-conscious choices also give your event a meaningful, modern vibe that
+                    resonates with guests.
                 </li>
                 <li
                     style={{
@@ -58,15 +43,14 @@ const Blog3 = () => {
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
                         fontSize: "16px",
-                        
+                        textAlign: "justify"
                     }}
                 >
-                    <strong>Bold Colors</strong>
-                    <br />
-                    &nbsp;Vibrant hues like electric blue, deep emerald, and radiant red will
-                    bring energy to your event. Pop and Palm creates dynamic, lively settings
-                    with these bold palettes, ensuring every color pops beautifully within
-                    budget.
+                    <strong>Bold Colors:&nbsp;</strong>Electric blue, deep emerald, and
+                    radiant red are set to take over event spaces in 2025. These bold hues
+                    will create dynamic and striking atmospheres that captivate your guests
+                    from the moment they arrive. Playing with vibrant color palettes will set
+                    the tone for an unforgettable experience.
                 </li>
                 <li
                     style={{
@@ -75,15 +59,15 @@ const Blog3 = () => {
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
                         fontSize: "16px",
-                        
+                        textAlign: "justify"
                     }}
                 >
-                    <strong>Interactive Experiences</strong>
-                    <br />
-                    &nbsp;Augmented reality (AR) displays and immersive installations will
-                    captivate your guests in 2025. Pop and Palm seamlessly integrates these
-                    elements to elevate your event and provide an unforgettable experience,
-                    all while staying cost-effective.
+                    <strong>Vintage &amp; Retro Elements:&nbsp;</strong>Art deco furniture,
+                    80s neon signs, and retro-inspired accents will add a nostalgic flair to
+                    any event. These vintage elements introduce a sense of fun and
+                    individuality, allowing you to transport your guests back in time for a
+                    playful and unforgettable vibe. Whether through furniture or small
+                    details, they create a personal connection to the past.
                 </li>
                 <li
                     style={{
@@ -92,15 +76,15 @@ const Blog3 = () => {
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
                         fontSize: "16px",
-                        
+                        textAlign: "justify"
                     }}
                 >
-                    <strong>Minimalist Luxe</strong>
-                    <br />
-                    &nbsp;Sleek, modern designs with clean lines and luxurious fabrics like
-                    velvet and satin are gaining popularity. Pop and Palm balances elegance
-                    with simplicity, ensuring a refined, understated vibe at affordable
-                    prices.
+                    <strong>Personalized Touches:&nbsp;</strong>Customized signage, unique
+                    floral arrangements, and bespoke elements ensure that every event feels
+                    one-of-a-kind. Adding these personal touches allows you to express the
+                    event’s theme and your unique style, leaving a lasting impact on your
+                    guests. It's all about crafting a memorable and immersive experience for
+                    everyone involved.
                 </li>
                 <li
                     style={{
@@ -109,15 +93,14 @@ const Blog3 = () => {
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
                         fontSize: "16px",
-                        
+                        textAlign: "justify"
                     }}
                 >
-                    <strong>Nature-Inspired Decor</strong>
-                    <br />
-                    &nbsp;Biophilic design, featuring greenery, organic shapes, and natural
-                    materials like wood and bamboo, will create calming event spaces. Pop and
-                    Palm brings nature indoors, integrating these elements affordably and
-                    beautifully.
+                    <strong>Nature-Inspired Decor:&nbsp;</strong>Greenery, wood accents, and
+                    organic shapes will be at the forefront in 2025. Biophilic design is
+                    perfect for creating calm, serene spaces that bring the outdoors inside.
+                    This natural aesthetic fosters a relaxed atmosphere and makes your event
+                    feel both refreshing and grounded.
                 </li>
                 <li
                     style={{
@@ -126,79 +109,15 @@ const Blog3 = () => {
                         marginBottom: "8.0pt",
                         marginLeft: "0cm",
                         fontSize: "16px",
-                        
+                        textAlign: "justify"
                     }}
                 >
-                    <strong>Technology-Enhanced Decor</strong>
-                    <br />
-                    &nbsp;LED displays and projection mapping will transform event spaces in
-                    2025. Pop and Palm expertly incorporates technology into your decor,
-                    ensuring dynamic, modern elements that leave a lasting impression, all
-                    within budget.
-                </li>
-                <li
-                    style={{
-                        marginTop: "0cm",
-                        marginRight: "0cm",
-                        marginBottom: "8.0pt",
-                        marginLeft: "0cm",
-                        fontSize: "16px",
-                        
-                    }}
-                >
-                    <strong>Personalized Touches</strong>
-                    <br />
-                    &nbsp;Customized signage and bespoke floral arrangements will make events
-                    feel unique. Pop and Palm works with you to bring these personal touches
-                    to life, creating a memorable experience at an affordable cost.
-                </li>
-                <li
-                    style={{
-                        marginTop: "0cm",
-                        marginRight: "0cm",
-                        marginBottom: "8.0pt",
-                        marginLeft: "0cm",
-                        fontSize: "16px",
-                        
-                    }}
-                >
-                    <strong>Vintage &amp; Retro Elements</strong>
-                    <br />
-                    &nbsp;Vintage decor, from art deco furniture to 80s neon signs, will add
-                    nostalgia and fun to events. Pop and Palm helps you incorporate these
-                    playful elements creatively and affordably.
-                </li>
-                <li
-                    style={{
-                        marginTop: "0cm",
-                        marginRight: "0cm",
-                        marginBottom: "8.0pt",
-                        marginLeft: "0cm",
-                        fontSize: "16px",
-                        
-                    }}
-                >
-                    <strong>Multi-Sensory Decor</strong>
-                    <br />
-                    &nbsp;Scent, sound, and taste will enhance event experiences in 2025. Pop
-                    and Palm ensures every sensory detail is taken care of, providing a fully
-                    immersive atmosphere.
-                </li>
-                <li
-                    style={{
-                        marginTop: "0cm",
-                        marginRight: "0cm",
-                        marginBottom: "8.0pt",
-                        marginLeft: "0cm",
-                        fontSize: "16px",
-                        
-                    }}
-                >
-                    <strong>Modular Design</strong>
-                    <br />
-                    &nbsp;Flexible, customizable decor solutions will be key for versatile
-                    event spaces. Pop and Palm offers modular design options, allowing your
-                    decor to adapt to any theme or space at an affordable cost.
+                    <strong>Modular Design:&nbsp;</strong>Flexible, customizable decor
+                    solutions will allow your event space to adapt to any theme or setting
+                    with ease. Modular designs make it easier to adjust to different space
+                    sizes and themes, offering endless possibilities for creativity. They
+                    ensure your decor is not only functional but also versatile, ensuring a
+                    seamless transition from one event to the next.
                 </li>
             </ol>
             <p
@@ -208,17 +127,32 @@ const Blog3 = () => {
                     marginBottom: "8.0pt",
                     marginLeft: "0cm",
                     fontSize: "16px",
-                    
+                    textAlign: "justify"
                 }}
             >
-                <strong>Conclusion</strong>
-                <br /> 2025 brings exciting new trends in event decor. From sustainable
-                designs to immersive experiences, Pop and Palm plans everything meticulously
-                and seamlessly to keep your event stylish and affordable. Ready to
-                incorporate these trends into your next event? Contact Pop and Palm today to
-                make it unforgettable!
+                2025 promises exciting trends that will transform your event decor. Pop and
+                Palm ensures your event is trendy, seamless, and budget-friendly. From
+                sustainable decor to modular designs and personalized touches, we bring
+                these trends to life with creative flair and attention to detail. Whether
+                you're looking for bold colors, vintage vibes, or nature-inspired spaces,
+                Pop and Palm designs memorable experiences that leave a lasting impression.
+                Ready to incorporate these trends into your next event? Contact Pop and Palm
+                today and let us turn your vision into reality!
+            </p>
+            <p
+                style={{
+                    marginTop: "0cm",
+                    marginRight: "0cm",
+                    marginBottom: "8.0pt",
+                    marginLeft: "0cm",
+                    fontSize: "16px",
+                    textAlign: "justify"
+                }}
+            >
+                &nbsp;
             </p>
         </>
+
     )
 }
 
